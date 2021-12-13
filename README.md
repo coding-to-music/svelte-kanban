@@ -54,7 +54,7 @@ $ snowpack dev --polyfill-node
   ⦿ web_modules/common/ (Shared)
     └─ _commonjsHelpers-eb5a497e.js             0.67 KB    0.33 KB    0.27 KB    
 
-  http://localhost:8080 • http://143.244.171.118:8080
+  http://localhost:8080 
   Server started.
 
 
