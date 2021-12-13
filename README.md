@@ -1,8 +1,12 @@
-# Supabase/Svelte Kanban
+# Supabase Svelte Kanban with Snowpack deployed on Vercel
 
 A [Trello](https://trello.com) clone using [Supabase](https://supabase.io) as the storage system.
 
 https://github.com/supabase-community/svelte-kanban
+
+https://github.com/coding-to-music/svelte-kanban
+
+https://svelte-kanban-gamma.vercel.app/
 
 ## [Click Here for Live Demo of Svelte Supabase Kanban](https://supabase-kanban.vercel.app/)
 
