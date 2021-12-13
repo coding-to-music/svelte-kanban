@@ -12,7 +12,7 @@ https://svelte-kanban-gamma.vercel.app/
 
 ### Screenshot
 
-![Screenshot](https://github.com/joshnuss/supabase-kanban/blob/master/screenshot.png)
+![Screenshot](https://github.com/coding-to-music/svelte-kanban/blob/main/screenshot.png?raw=true)
 
 # Setup locally
 
