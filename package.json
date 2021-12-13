@@ -2,6 +2,7 @@
   "scripts": {
     "start": "snowpack dev --polyfill-node",
     "build": "snowpack build --polyfill-node",
+    "license": "MIT",
     "test": "jest",
     "lint": "eslint",
     "format": "eslint --fix",
